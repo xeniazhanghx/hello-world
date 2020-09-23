@@ -1,3 +1,4 @@
-# hello-world
-This is my first repository.
-I think I will let it be my own library of learning resources.
+# 个人学习笔记仓库
+共勉：现在懂得还很少，但会慢慢变多的。
+## :balloon:开仓
+- 吴恩达机器学习
